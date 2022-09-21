@@ -19,7 +19,7 @@ Or run it from Maven with the Spring Boot Maven plugin:
 ./mvnw spring-boot:run
 ```
 
-You can try out the out with the help of swagger here: http://localhost:8080/swagger-ui.html
+You can try out the app with the help of swagger here: http://localhost:8080/swagger-ui.html
 
 ## Database configuration
 
